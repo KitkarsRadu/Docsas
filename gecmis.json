@@ -1,0 +1,213 @@
+[
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "Seçili Resimler",
+            "aassss.pdf"
+        ],
+        "time": "19.05.2026, 22:09",
+        "path": "C:/Users/avahm/Desktop/aassss.pdf"
+    },
+    {
+        "icon": "⚙️",
+        "action": "history_action_advanced",
+        "params": [
+            "2025_3375_Ödeme_İcra_Emri_20_01_2025.udf.pdf",
+            "ljknknj.pdf"
+        ],
+        "time": "19.05.2026, 21:43",
+        "path": "C:/Users/avahm/Desktop/ljknknj.pdf"
+    },
+    {
+        "icon": "📝",
+        "action": "history_action_convert",
+        "params": [
+            "Ofis Dosyaları",
+            "jjjjjjjjjjjjjjjjjjjjjjjj.pdf"
+        ],
+        "time": "19.05.2026, 15:26",
+        "path": "C:/Users/avahm/Desktop/jjjjjjjjjjjjjjjjjjjjjjjj.pdf"
+    },
+    {
+        "icon": "🔍",
+        "action": "history_action_ocr",
+        "params": [
+            "2025_3375_Dosya_Hesabı_Raporu_13_05_2026.pdf",
+            "iiiiiiiiiiiiiiiiiii.pdf"
+        ],
+        "time": "19.05.2026, 11:18",
+        "path": "C:/Users/avahm/Desktop/iiiiiiiiiiiiiiiiiii.pdf"
+    },
+    {
+        "icon": "🛠️",
+        "action": "history_action_convert",
+        "params": [
+            "Çoklu PDF İşlemi",
+            "islenmis_belge.pdf"
+        ],
+        "time": "19.05.2026, 11:14",
+        "path": "C:/Users/avahm/Desktop/islenmis_belge.pdf"
+    },
+    {
+        "icon": "🛠️",
+        "action": "history_action_convert",
+        "params": [
+            "Çoklu PDF İşlemi",
+            "zzzzzzzzzzzzzzzzzzzzzzzz.pdf"
+        ],
+        "time": "19.05.2026, 10:17",
+        "path": "C:/Users/avahm/Desktop/zzzzzzzzzzzzzzzzzzzzzzzz.pdf"
+    },
+    {
+        "icon": "🛠️",
+        "action": "history_action_convert",
+        "params": [
+            "Çoklu PDF İşlemi",
+            "zzzzzzzzzzzzzzz.pdf"
+        ],
+        "time": "19.05.2026, 10:15",
+        "path": "C:/Users/avahm/Desktop/zzzzzzzzzzzzzzz.pdf"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "Seçili Resimler",
+            "lkjkl.pdf"
+        ],
+        "time": "19.05.2026, 01:13",
+        "path": "C:/Users/avahm/Desktop/lkjkl.pdf"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "2025_3375_Ödeme_İcra_Emri_20_01_2025.udf",
+            "Resim Klasörü (PNG)"
+        ],
+        "time": "18.05.2026, 18:55",
+        "path": "C:/Users/avahm/Desktop\\Docsas_Resim_Ciktilari"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "Seçili Resimler",
+            "333.pdf"
+        ],
+        "time": "18.05.2026, 18:53",
+        "path": "C:/Users/avahm/Desktop/333.pdf"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "1",
+            "Resim Klasörü (JPEG)"
+        ],
+        "time": "18.05.2026, 18:48",
+        "path": "C:/Users/avahm/Desktop\\Docsas_Resim_Ciktilari"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "1",
+            "Resim Klasörü (JPEG)"
+        ],
+        "time": "18.05.2026, 18:43",
+        "path": "C:/Users/avahm/Desktop\\Docsas_Resim_Ciktilari"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "Seçili Resimler",
+            "PDF Belgesi"
+        ],
+        "time": "18.05.2026, 18:42",
+        "path": "C:/Users/avahm/Desktop/asdad.pdf"
+    },
+    {
+        "icon": "🖼️",
+        "action": "history_action_convert",
+        "params": [
+            "2025_3375_Ödeme_İcra_Emri_20_01_2025.udf.pdf",
+            "Desktop"
+        ],
+        "time": "18.05.2026, 18:33",
+        "path": "C:/Users/avahm/Desktop"
+    },
+    {
+        "icon": "📝",
+        "action": "history_action_convert",
+        "params": [
+            "1.pdf",
+            "5.docx"
+        ],
+        "time": "18.05.2026, 18:26",
+        "path": "C:/Users/avahm/Desktop/5.docx"
+    },
+    {
+        "icon": "✂️",
+        "action": "history_action_generic",
+        "params": [
+            "Akıllı Ayırma",
+            "Çoklu Dosya"
+        ],
+        "time": "18.05.2026, 18:06",
+        "path": "C:/Users/avahm/Desktop\\Docsas_Ayrilan_Sayfalar"
+    },
+    {
+        "icon": "📄",
+        "action": "history_action_generic",
+        "params": [
+            "Akıllı Birleştirme",
+            "3.pdf"
+        ],
+        "time": "18.05.2026, 18:06",
+        "path": "C:/Users/avahm/Desktop/3.pdf"
+    },
+    {
+        "icon": "📝",
+        "action": "history_action_convert",
+        "params": [
+            "1.pdf",
+            "Word (.docx)",
+            "2.docx"
+        ],
+        "time": "18.05.2026, 18:05",
+        "path": "C:/Users/avahm/Desktop/2.docx"
+    },
+    {
+        "icon": "📝",
+        "action": "history_action_convert",
+        "params": [
+            "Ofis Dosyaları",
+            "1.pdf"
+        ],
+        "time": "18.05.2026, 18:05",
+        "path": "C:/Users/avahm/Desktop/1.pdf"
+    },
+    {
+        "icon": "📝",
+        "action": "history_action_convert",
+        "params": [
+            "Ofis Dosyaları",
+            "dede.pdf"
+        ],
+        "time": "18.05.2026, 17:59",
+        "path": "C:/Users/avahm/Desktop/dede.pdf"
+    },
+    {
+        "icon": "📝",
+        "action": "history_action_convert",
+        "params": [
+            "Ofis Dosyaları",
+            "sdasdasdasdasdsad.pdf"
+        ],
+        "time": "18.05.2026, 17:34",
+        "path": "C:/Users/avahm/Desktop/sdasdasdasdasdsad.pdf"
+    }
+]
